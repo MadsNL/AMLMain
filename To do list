@@ -8,13 +8,19 @@
 (Mads)      - Make a tree based algorithm only for scalars
 (Mads)      - Make a tree based algorithm only for images from auto encoder 
 (Mads)      - Put them together. 
-- How long does the latens space have to be? 
 
 - Make UMAP on the last dense layer of a NN - Like the auto encoder ith two models in one. 
 - Load images in in another way - 
 
+OPTIMIZING:
+- How long does the latens space have to be? 
+- Test and validation 
+- Optimize values with Baysian Optimization.
+
 - Tjek if UMAP or t-SNE is best
 
+
+PERUVIAN:
 - Applie the algorithm to the Peruvian Ice core.
 - Find the 20 most interesting images from the Peruvian 
 - See if single classes have structure
