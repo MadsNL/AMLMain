@@ -1,0 +1,21 @@
+(Flemming) - Try to remove 1 class and classify to see if there are still 7 classes. For all of the 7 classes. 
+           If the accurucy on the predictions becomes better, would mean that the removed class is hard to classify because it looks like some other
+           class   
+
+(Mads)     - Tjek if the auto encoder works
+(wait)     - Look at encoder - decoder, maybe uptimize
+
+(Mads)      - Make a tree based algorithm only for scalars
+(Mads)      - Make a tree based algorithm only for images from auto encoder 
+(Mads)      - Put them together. 
+- How long does the latens space have to be? 
+
+- Make UMAP on the last dense layer of a NN - Like the auto encoder ith two models in one. 
+- Load images in in another way - 
+
+- Tjek if UMAP or t-SNE is best
+
+- Applie the algorithm to the Peruvian Ice core.
+- Find the 20 most interesting images from the Peruvian 
+- See if single classes have structure
+
