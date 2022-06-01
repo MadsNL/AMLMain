@@ -30,6 +30,10 @@ Stuff from møde
   Plot dust below and then plot others on top in umap
 - could try give classifier original size of image?
 
+- remove 1 class. Take last layer or encoder (also CNN classifier (because CNN might be better for the ones we trained on but more biased)). Then Umap parametric on the 6. The. Umap predict on 7 to see if it has another cluster.
+
+- we could try unsupervised with 7 clusters and see how good it is?
+
 PERUVIAN:
 - Applie the algorithm to the Peruvian Ice core.
 - Find the 20 most interesting images from the Peruvian 
