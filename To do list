@@ -3,13 +3,18 @@
            class   
 
 (Mads)     - Tjek if the auto encoder works                                             done
+             Does seem to work indeed.
 (wait)     - Look at encoder - decoder, maybe uptimize
 
 (Mads)      - Make a tree based algorithm only for scalars                              done
 (Mads)      - Make a tree based algorithm only for images from auto encoder             done
 (Mads)      - Put them together.                                                        done
 
+              These 3 things have been done. What was found was that both scalars as well as encoder worked decent for identification.
+                      The combination of the 2 was best though.
+
 (Mads)      - Make convolutional NN and see                                             done
+              Works but is not amazing. About the same performance as the encoder with a tree.
 
 (Cecilie og Laura) - Make UMAP on the last dense layer of a NN - Like the auto encoder ith two models in one.   done
 - Load images in in another way - 
