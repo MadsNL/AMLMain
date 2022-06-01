@@ -11,8 +11,10 @@
 
 (Mads)      - Make convolutional NN and see                                             done
 
-(Cecilie og Laura) - Make UMAP on the last dense layer of a NN - Like the auto encoder ith two models in one. 
+(Cecilie og Laura) - Make UMAP on the last dense layer of a NN - Like the auto encoder ith two models in one.   done
 - Load images in in another way - 
+
+(Laura)      - Put similar classes together and seperate later. Maybe better?
 
 OPTIMIZING:
 (Mads)     - How long does the latens space have to be? 
