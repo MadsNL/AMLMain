@@ -9,13 +9,13 @@
 (Mads)      - Make a tree based algorithm only for images from auto encoder             done
 (Mads)      - Put them together.                                                        done
 
-(Mads)      - Make convolutional NN and see
+(Mads)      - Make convolutional NN and see                                             done
 
 (Cecilie og Laura) - Make UMAP on the last dense layer of a NN - Like the auto encoder ith two models in one. 
 - Load images in in another way - 
 
 OPTIMIZING:
-- How long does the latens space have to be? 
+(Mads)     - How long does the latens space have to be? 
 - Test and validation 
 - Optimize values with Baysian Optimization.
 
