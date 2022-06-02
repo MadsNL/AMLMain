@@ -25,7 +25,7 @@ OPTIMIZING:
 (Mads)     - How long does the latens space have to be?     done
              Semmes like the more the better. But increase in performance is very limited beyond 128.
 - Test and validation 
-- bedre autoencoder?
+(Mads)     - bedre autoencoder?
 - Optimize values with Baysian Optimization.
 
 - Tjek if UMAP or t-SNE is best
