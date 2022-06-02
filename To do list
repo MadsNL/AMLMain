@@ -22,7 +22,8 @@
 (Laura)      - Put similar classes together and seperate later. Maybe better?
 
 OPTIMIZING:
-(Mads)     - How long does the latens space have to be? 
+(Mads)     - How long does the latens space have to be?     done
+             Semmes like the more the better. But increase in performance is very limited beyond 128.
 - Test and validation 
 - bedre autoencoder?
 - Optimize values with Baysian Optimization.
