@@ -41,7 +41,7 @@ Stuff from møde
 
 - we could try unsupervised with 7 clusters and see how good it is?
 
-- should see if using all 3 colors in images give better results rather than gray-scale
+(Mads)     - should see if using all 3 colors in images give better results rather than gray-scale
 
 PERUVIAN:
 - Applie the algorithm to the Peruvian Ice core.
