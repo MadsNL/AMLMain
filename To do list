@@ -4,7 +4,8 @@
 
 (Mads)     - Tjek if the auto encoder works                                             done
              Does seem to work indeed.
-(wait)     - Look at encoder - decoder, maybe uptimize
+(Mads)     - Look at encoder - decoder, maybe uptimize                                  done?
+                                 tried some stuff. Didnt get better.
 
 (Mads)      - Make a tree based algorithm only for scalars                              done
 (Mads)      - Make a tree based algorithm only for images from auto encoder             done
@@ -43,6 +44,8 @@ Stuff from møde
 - Peruvian has much dust. Dust might overshadow. 
   Plot dust below and then plot others on top in umap
 - could try give classifier original size of image?
+
+(Mads) - figure out Umap parametric
 
 - remove 1 class. Take last layer or encoder (also CNN classifier (because CNN might be better for the ones we trained on but more biased)). Then Umap parametric on the 6. The. Umap predict on 7 to see if it has another cluster.
 
