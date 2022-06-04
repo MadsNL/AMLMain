@@ -28,7 +28,9 @@ OPTIMIZING:
 (Mads)     - bedre autoencoder?                                                         done?
                       Tried a few things. Nothing really made it better.
                       
-- Optimize values with Baysian Optimization.
+- Optimize values with Baysian Optimization. (Tree)
+
+(Mads)     - Optimize values with Baysian Optimization. (NN)
 
 - Tjek if UMAP or t-SNE is best
 
