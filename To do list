@@ -30,7 +30,10 @@ OPTIMIZING:
                       
 - Optimize values with Baysian Optimization. (Tree)
 
-(Mads)     - Optimize values with Baysian Optimization. (NN)
+(Mads)     - Optimize values with Baysian Optimization. (NN)                            done? kinda?
+                      1 layers of 376
+                      3 layers of 475
+                      1 layers of 376
 
 - Tjek if UMAP or t-SNE is best
 
