@@ -40,7 +40,7 @@ OPTIMIZING:
 - Tjek if UMAP or t-SNE is best
 
 Stuff from møde
-- Umap on encoder
+- (Yannick) Umap on encoder
 - try with his encoder if want?
 - Peruvian has much dust. Dust might overshadow. 
   Plot dust below and then plot others on top in umap
