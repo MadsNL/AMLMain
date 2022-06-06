@@ -29,7 +29,8 @@ OPTIMIZING:
 (Mads)     - bedre autoencoder?                                                         done?
                       Tried a few things. Nothing really made it better.
                       
-- Optimize values with Baysian Optimization. (Tree)
+(Flemming) - Optimize values with Baysian Optimization. (Tree)                          done
+                      Did better than no opti
 
 (Mads)     - Optimize values with Baysian Optimization. (NN)                            done? kinda?
                       1 layers of 376
