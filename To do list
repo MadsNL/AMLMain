@@ -48,7 +48,8 @@ Stuff from møde
 
 (Mads) - figure out Umap parametric                                                    done
 
-(Mads) - remove 1 class. Take last layer or encoder (also CNN classifier (because CNN might be better for the ones we trained on but more biased)). Then Umap parametric on the 6. The. Umap predict on 7 to see if it has another cluster.
+(Mads) - remove 1 class. Take last layer or encoder (also CNN classifier (because CNN might be better for the ones we trained on but more biased)). Then Umap parametric on the 6. The. Umap predict on 7 to see if it has another cluster.        done?
+                      did. Only got amazing results on 1 of them. It got a totally different cluster in umap.
 
 - we could try unsupervised with 7 clusters and see how good it is?
 
