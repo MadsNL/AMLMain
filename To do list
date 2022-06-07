@@ -57,6 +57,8 @@ Stuff from møde
                       Makes very little difference other than the images taking up 3 times the ram.
                       If anything the grayscale seems a bit better.
 
+(Mads)     - Train all NN networks with most of the data.
+
 PERUVIAN:
 - Applie the algorithm to the Peruvian Ice core.
 - Find the 20 most interesting images from the Peruvian 
