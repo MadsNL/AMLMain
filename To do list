@@ -37,8 +37,6 @@ OPTIMIZING:
                       3 layers of 475
                       1 layers of 376
 
-- Tjek if UMAP or t-SNE is best
-
 Stuff from møde
 - Umap on encoder
 - try with his encoder if want?
@@ -52,8 +50,6 @@ Stuff from møde
 
 (Mads) - remove 1 class. Take last layer or encoder (also CNN classifier (because CNN might be better for the ones we trained on but more biased)). Then Umap parametric on the 6. The. Umap predict on 7 to see if it has another cluster.        done?
                       did. Only got amazing results on 1 of them. It got a totally different cluster in umap.
-
-- we could try unsupervised with 7 clusters and see how good it is?
 
 (Mads)     - should see if using all 3 colors in images give better results rather than gray-scale            done
                       Makes very little difference other than the images taking up 3 times the ram.
