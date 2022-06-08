@@ -40,11 +40,13 @@ OPTIMIZING:
 - Tjek if UMAP or t-SNE is best
 
 Stuff from møde
-- (Yannick) Umap on encoder
+- Umap on encoder
 - try with his encoder if want?
-- Peruvian has much dust. Dust might overshadow. 
+- Peruvian has much dust. Dust might overshadow.  
   Plot dust below and then plot others on top in umap
 - could try give classifier original size of image?
+
+(Yannick) - UMAP Peruvian to remove dust
 
 (Mads) - figure out Umap parametric                                                    done
 
