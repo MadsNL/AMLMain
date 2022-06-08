@@ -60,5 +60,11 @@ Stuff from møde
 PERUVIAN:
 - Applie the algorithm to the Peruvian Ice core.
 - Find the 20 most interesting images from the Peruvian 
+           ideas:
+                      smallest
+                      biggest
+                      most average
+                      the one the autoencoder has the hardest time producing (probably does not look like the others)
+                      outliers
 - See if single classes have structure
 
