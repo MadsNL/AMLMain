@@ -57,6 +57,7 @@ Stuff from møde
 
 (Mads)     - Train all NN networks with most of the data.
 (Mads mbe more?) - get confusin matrix and roc curves for different models.
+(Mads mbe more=) - perhaps get loss as function of epochs
 
 PERUVIAN:
 - Applie the algorithm to the Peruvian Ice core.
